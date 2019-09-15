@@ -19,7 +19,7 @@ https://slack.com/oauth/authorize?client_id=655746628819.668861725555&scope=bot
 <code>@DM roll initiative</code> [automatically rolls your initiative; note that you need to record your Dex score prior]</br>
 </br>
 <code>@DM record <STATS></code> [where <STATS> is the following: Name: Jane Doe, Points: 27, STR: 8, DEX: 8, CON: 8, INT: 8, WIS: 8, CHA: 8, AC: 10, HP: 0, Skills: blah, blah (note: stats are CaSe sensitive)]</br>
-<code>@DM record user:USER_ID HP:USER_HP</code> [where HP is the user's health points]</br>
+<code>@DM record user:USER_ID HP:USER_HP</code> [where HP is the target user's health points]</br>
 </br>
 <code>@DM show stats</code> [will show your stats]</br>
 <code>@DM show character</code> [will show your stats]</br>
